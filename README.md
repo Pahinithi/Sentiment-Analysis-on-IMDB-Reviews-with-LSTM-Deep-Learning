@@ -20,7 +20,7 @@ This project implements sentiment analysis on IMDB movie reviews using a Long Sh
 The goal of this project is to build a sentiment analysis model that predicts whether an IMDB movie review is positive or negative. The project leverages an LSTM neural network for this task, which is particularly effective for processing sequential data like text.
 
 ## Demo
-You can view a live demo of the application [here](link-to-demo).
+You can view a live demo of the application [here]([link-to-demo](https://drive.google.com/file/d/1wjNssZ_Qy-vY1kEfwkbyPXUxqwd6jcD2/view?usp=sharing)).
 
 ## Dataset
 The dataset used in this project is the [IMDB Movie Reviews Dataset](https://ai.stanford.edu/~amaas/data/sentiment/), which contains 50,000 reviews labeled as positive or negative. The dataset is split into 25,000 training and 25,000 test reviews, ensuring that there is no overlap between the sets.
